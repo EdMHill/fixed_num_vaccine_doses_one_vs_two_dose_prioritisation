@@ -2,4 +2,6 @@
 
 Code for the analysis presented in the scientific paper "Comparison between one and two dose vaccine prioritisation for a fixed number of vaccine doses".
 
+Preprint details: Edward M Hill, Matt J Keeling. (2021) Comparison between one and two dose vaccine prioritisation for a fixed number of vaccine doses. *medRxiv* doi: 10.1101/2021.03.15.21253542. URL: https://doi.org/10.1101/2021.03.15.21253542.
+
 [![DOI](https://zenodo.org/badge/344444140.svg)](https://zenodo.org/badge/latestdoi/344444140)
